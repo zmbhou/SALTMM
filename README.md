@@ -1,4 +1,4 @@
-# Source codes for paper "SAL:Selection and Attention Losses for Weakly Supervised Semantic Segmentation", accepted by Transaction on Multimedia
+# Source codes for paper ["SAL:Selection and Attention Losses for Weakly Supervised Semantic Segmentation"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9082835), accepted by Transaction on Multimedia
 
 ## 1. Training:
 run SAL_Net_VGG16_training.py
