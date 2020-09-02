@@ -15,4 +15,3 @@ Thre results will be saved in './result/'. Mean IoU of 61.3 can be achieved on P
 Step 4: we have provided the matlab code for evaluation. You can evaluate the resutls and obtain Iou youself. 
 Please refer to https://github.com/zmbhou/IoUeval.
 
-## 3. source codes for mask scoring are coming soon.
